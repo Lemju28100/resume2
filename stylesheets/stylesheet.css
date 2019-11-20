@@ -1,0 +1,86 @@
+#about-me
+{
+  padding:3% 10%;
+  margin-top: -8%;
+}
+
+.row-carousel{
+  margin-top: 50px;
+}
+
+#projects
+{
+  padding:10% 15%;
+}
+
+.copyright
+{
+  height: 86px;
+}
+
+#learned-so-far
+{
+padding-top: 7%;
+}
+
+.headings
+{
+  size:3rem;
+  text-align: center;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+.description
+{
+  line-height: 3;
+  padding-top: 2%;
+
+}
+
+.card-Timetable{
+  font-weight: bolder;
+}
+.white-text
+{
+  color: white;
+  size:1rem;
+}
+.landing-content{
+  width:50%;
+  height: 25%;
+  text-align:center;
+  margin-bottom: -30%;
+}
+.name
+{
+  size:4rem;
+  color: white;
+  font-weight: bolder;
+  transform: translateY(110%);
+}
+
+.resize
+{
+  width: 10%;
+  height: 10%;
+  border-radius: 10%;
+}
+.carousel-item{
+  width: 10%;
+  height: 10%;
+}
+.carousel-inner
+{
+  width: 10%;
+  height: 10%;
+}
+.slide-wrapper
+{
+  width: 10%;
+  height: 10%;
+}
+.carousel
+{
+  width: 10%;
+  height: 10%;
+}
